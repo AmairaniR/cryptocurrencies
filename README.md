@@ -2,7 +2,7 @@
 
 ## Overview 
 
-In this repository a report on cryptocurrencies is created using unspervised maching learning's KMeans algorithm to create a classification system on the different crypocurrience. This classification will then be offered as an investement portfolio for the clients of Accountability Accounting. 
+In this repository, a report on cryptocurrencies is created using unsupervised machine learning's KMeans algorithm to create a classification system for different cryptocurrencies. This classification will then be offered as an investment portfolio for the clients of Accountability Accounting.
 
 ## Summary 
 
